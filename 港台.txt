@@ -71,6 +71,10 @@ http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=1922
 http://198.16.64.10:8278/videolandmovie/playlist.m3u8?tid=MF4F2634575026345750&ct=19234&tsum=0408efe61fa5e9322bcd2d5e70c739af
 #EXTINF:-1,[ETTV]東森電影 
 http://198.16.64.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
+#EXTINF:-1,[龙华电影]
+http://218.32.47.179:18556/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
+#EXTINF:-1,[卫视电影]
+http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
 #EXTINF:-1,[ETTV]東森洋片 
 http://198.16.64.10:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
 #EXTINF:-1,[TW]东森财经新闻 
