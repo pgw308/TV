@@ -1,15 +1,13 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="VL緯來電影台HD CH63" tvg-name="VL緯來電影台HD CH63" tvg-logo="https://epg.112114.xyz/logo/緯來電影.png" group-title="台灣",VL緯來電影台HD CH63
 http://193.24.209.91/Smart.php?id=videolandmovie
-#EXTINF:-1,ETTV東森電影
+#EXTINF:-1,tvg-id="ETTV東森電影" tvg-name="ETTV東森電影" tvg-logo="https://epg.112114.xyz/logo/東森電影.png" group-title="台灣",ETTV東森電影
 http://193.24.209.91/Smart.php?id=ettvmovie
-#EXTINF:-1,LS•TIME Movie
+#EXTINF:-1,tvg-id="LS•TIME movie" tvg-name="LS•TIME movie" tvg-logo="https://epg.112114.xyz/logo/龍祥時代.png" group-title="台灣",LS•TIME movie
 http://193.24.209.91/Smart.php?id=lungxiangtime_twn
-#EXTINF:-1,美亞電影TW
+#EXTINF:-1,tvg-id="美亞電影TW" tvg-name="美亞電影TW" tvg-logo="https://epg.112114.xyz/logo/美亞電影.png" group-title="台灣",美亞電影TW
 http://193.24.209.91/Smart.php?id=meiyamovie_twn
-#EXTINF:-1,好萊塢電影台
+#EXTINF:-1,tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" tvg-logo="https://epg.112114.xyz/logo/好萊塢電影.png" group-title="台灣",好萊塢電影台
 http://193.24.209.91/Smart.php?id=hollywoodmovies_twn
-#EXTINF:-1,天映經典頻道CCM
+#EXTINF:-1,tvg-id="CCM天映經典" tvg-name="CCM天映經典" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-title="台灣",CCM天映經典
 http://193.24.209.91/Smart.php?id=Celestial2
-#EXTINF:-1,天映頻道HD
-http://193.24.209.91/Smart.php?id=Celestial
