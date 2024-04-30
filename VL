@@ -10,4 +10,6 @@ http://193.24.209.91/Smart.php?id=meiyamovie_twn
 #EXTINF:-1,tvg-id="好萊塢電影台 CH68" tvg-name="好萊塢電影台 CH68" tvg-logo="https://epg.112114.xyz/logo/好萊塢電影.png" group-title="台灣",好萊塢電影台 CH68
 http://193.24.209.91/Smart.php?id=hollywoodmovies_twn
 #EXTINF:-1,tvg-id="CCM天映經典 CH203" tvg-name="CCM天映經典 CH203" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-title="台灣",CCM天映經典 CH203
-http://193.24.209.91/Smart.php?id=Celestial2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a642dd4bf3ea782e19202adefb604b10:3f59355e15eed1bb219ea1687d55cfbb
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/100/default.mpd
