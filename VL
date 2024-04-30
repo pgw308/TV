@@ -5,3 +5,9 @@ http://193.24.209.91/Smart.php?id=videolandmovie
 http://193.24.209.91/Smart.php?id=ettvmovie
 #EXTINF:-1,LS•TIME Movie
 http://193.24.209.91/Smart.php?id=lungxiangtime_twn
+#EXTINF:-1,美亞電影TW
+http://193.24.209.91/Smart.php?id=meiyamovie_twn
+#EXTINF:-1,天映經典頻道CCM
+http://193.24.209.91/Smart.php?id=Celestial2
+#EXTINF:-1,LTV龍華電影
+http://193.24.209.91/Smart.php?id=hls
