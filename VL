@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1,VL緯來電影台HD CH63
 http://193.24.209.91/Smart.php?id=videolandmovie
+#EXTINF:-1,ETTV東森電影
+http://193.24.209.91/Smart.php?id=ettvmovie
+#EXTINF:-1,LS•TIME Movie
+http://193.24.209.91/Smart.php?id=lsmovie
