@@ -1,15 +1,17 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="ETTV東森電影 CH62" tvg-name="ETTV東森電影 CH62" tvg-logo="https://epg.112114.xyz/logo/東森電影.png" group-title="台灣",ETTV東森電影 CH62
-http://193.24.209.91/Smart.php?id=ettvmovie
+http://99754106633f94d350db34d548d6091a.everydaytv.top/live/iptv/78f3f3426c71b8d20e108ea860132ec2/playlist.m3u8
 #EXTINF:-1,tvg-id="VL緯來電影台HD CH63" tvg-name="VL緯來電影台HD CH63" tvg-logo="https://epg.112114.xyz/logo/緯來電影.png" group-title="台灣",VL緯來電影台HD CH63
-http://193.24.209.91/Smart.php?id=videolandmovie
+http://99754106633f94d350db34d548d6091a.everydaytv.top/live/iptv/36b32b92fb732c9f2de8f626c1f1a8ae/playlist.m3u8
 #EXTINF:-1,tvg-id="LS•TIME movie CH64" tvg-name="LS•TIME movie CH64" tvg-logo="https://epg.112114.xyz/logo/龍祥時代.png" group-title="台灣",LS•TIME movie CH64
-http://193.24.209.91/Smart.php?id=lungxiangtime_twn
+http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/live/iptv/8ff983e48ea0f59c05113eb6688061c1/playlist.m3u8
 #EXTINF:-1,tvg-id="美亞電影TW CH610" tvg-name="美亞電影TW CH610" tvg-logo="https://epg.112114.xyz/logo/美亞電影.png" group-title="台灣",美亞電影TW CH610
-http://193.24.209.91/Smart.php?id=meiyamovie_twn
+http://99754106633f94d350db34d548d6091a.everydaytv.top/live/iptv/7ee08ecd67874169480003466545a119/playlist.m3u8
 #EXTINF:-1,tvg-id="好萊塢電影台 CH68" tvg-name="好萊塢電影台 CH68" tvg-logo="https://epg.112114.xyz/logo/好萊塢電影.png" group-title="台灣",好萊塢電影台 CH68
-http://193.24.209.91/Smart.php?id=hollywoodmovies_twn
+http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/live/iptv/3cd0814d3f7493781499e955a9a383f8/playlist.m3u8
 #EXTINF:-1,tvg-id="CCM天映經典 CH203" tvg-name="CCM天映經典 CH203" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-title="台灣",CCM天映經典 CH203
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a642dd4bf3ea782e19202adefb604b10:3f59355e15eed1bb219ea1687d55cfbb
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/100/default.mpd
+http://99754106633f94d350db34d548d6091a.everydaytv.top/live/iptv/bd70141e8aee51d24d798210113fa026/playlist.m3u8
+#EXTINF:-1,龍華洋片
+http://99754106633f94d350db34d548d6091a.everydaytv.top/live/iptv/3363aa4039d11276ce49758cb35e7bd6/playlist.m3u8
+#EXTINF:-1,東森洋片
+http://99754106633f94d350db34d548d6091a.everydaytv.top/live/iptv/2152275724fa2dc7a0490f8fc9ed40ed/playlist.m3u8
