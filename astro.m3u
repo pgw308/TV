@@ -115,7 +115,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5009/default_primary.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kzric7Fmuqj7ID7vGnrb3w", "kid":"BxRIaQoOybJ+ssGn1eAwEA" } ], "type":"temporary" } 
 #EXTINF:-1tvg-id="305.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVB_Classic_2022.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",TVB Classic HD
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5016/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_primary.mpd
 
 #EXTINF:-1 group-title="Astro" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="TVBJade" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/TVB_Jade_2023.png/revision/latest?cb=20230203013249&path-prefix=vi",TVB Jade
 #KODIPROP:inputstream.adaptive.license_type=clearkey
